@@ -2,7 +2,7 @@
   "name": "davidhirtz/yii2-media-tinify",
   "type": "yii2-extension",
   "description": "Yii2 Media Management Tinify extension",
-  "homepage": "http://www.davidhirtz.com/",
+  "homepage": "https://www.davidhirtz.com/",
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
@@ -16,11 +16,5 @@
   },
   "extra": {
     "bootstrap": "davidhirtz\\yii2\\media\\tinify\\composer\\Bootstrap"
-  },
-  "repositories": [
-    {
-      "type": "git",
-      "url": "git@github.com:davidhirtz/yii2-media.git"
-    }
-  ]
+  }
 }
